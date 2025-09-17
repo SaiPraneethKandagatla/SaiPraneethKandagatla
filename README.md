@@ -49,6 +49,15 @@
   <a href="https://www.instagram.com/sai.praneeth.26/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+  <a href="https://api.whatsapp.com/send/?phone=917032304118&text&type=phone_number&app_absent=0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SaiPraneethKandagatla.SaiPraneethKandagatla&"  />
 </div>
 
 ###
