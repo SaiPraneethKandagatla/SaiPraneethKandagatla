@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Currently persuing B.Tech 3th year CSE at SR University, CGPA: 9.2<br>🔭 Virtual Intern at AICTE<br>🧠 Actively working on AI-powered apps and Web-development projects<br>💬 Ask me about Python, AWS, Databases, Web Development<br>📫 Reach me at praneethkandagatla0@gmail.com</p>
+<p align="left">🎓 Currently persuing B.Tech 3th year CSE at SR University, CGPA: 9.07<br>🔭 Virtual Intern at AICTE<br>🧠 Actively working on AI-powered apps and Web-development projects<br>💬 Ask me about Python, AWS, Databases, Web Development<br>📫 Reach me at praneethkandagatla0@gmail.com</p>
 
 ###
 
